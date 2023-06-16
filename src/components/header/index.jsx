@@ -78,7 +78,10 @@ const Header = () => {
           jovem, uniforme e sem manchas. Comprovou-se que a proteína combate
           rugas sem nenhum efeito colateral. Com garantias e comprovações
           cientificas de 99% de eficácia no FDA, Anvisa Americana. Conheça a
-          <a> Rosa Mosqueta Amazônica®</a>
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            {" "}
+            Rosa Mosqueta Amazônica®
+          </a>
         </p>
         <Image
           url={
@@ -89,11 +92,15 @@ const Header = () => {
           }
         />
         <p className="text_main">
-          A <a> Rosa Mosqueta Amazônica</a>, ajuda a manter a sustentação e a
-          hidratação da pele, evitando a flacidez, as linhas e sinais de
-          expressão, preenchendo e mantendo a pele hidratada, viçosa e
-          revitalizada. Por ser um componente natural essa substância é muito
-          bem aceita pelas camadas da pele.
+          A{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            {" "}
+            Rosa Mosqueta Amazônica
+          </a>
+          , ajuda a manter a sustentação e a hidratação da pele, evitando a
+          flacidez, as linhas e sinais de expressão, preenchendo e mantendo a
+          pele hidratada, viçosa e revitalizada. Por ser um componente natural
+          essa substância é muito bem aceita pelas camadas da pele.
         </p>
         <br />
         <p className="text_main">
@@ -117,16 +124,29 @@ const Header = () => {
         <br />
         <p className="text_main">
           Lúcia Hoffmann, 56, conta que foi chamada no início de novembro pela
-          equipe <a>Amazony</a> para fazer um teste sem custos do{" "}
-          <a>Rosa Amazônica</a> por 150 dias. Ela relatou que o resultado foi
-          muito maior do que poderia imaginar:{" "}
+          equipe{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Amazony
+          </a>{" "}
+          para fazer um teste sem custos do{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Rosa Amazônica
+          </a>{" "}
+          por 150 dias. Ela relatou que o resultado foi muito maior do que
+          poderia imaginar:{" "}
           <article style={{ opacity: 0.8, marginTop: "10px" }}>
             “Fui fumante durante por mais de 10 anos e de uns tempos pra cá meus
             pés de galinha estavam cada vez mais aparentes. Eu já não sabia o
             que fazer, pois havia tentado todo tipo de tratamento e produto, mas
             nada funcionava. Foi então que por indicação de uma amiga conheci o{" "}
-            <a style={{ opacity: 1 }}>Rosa Amazônica</a>. Hoje posso afimar que
-            não só salvei minha pele como também minha autoestima.
+            <a
+              href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58"
+              style={{ opacity: 1 }}
+            >
+              Rosa Amazônica
+            </a>
+            . Hoje posso afimar que não só salvei minha pele como também minha
+            autoestima.
           </article>
         </p>
         <br />
@@ -143,7 +163,10 @@ const Header = () => {
         <br />
         <p className="text_main">
           Ela não foi a única brasileira convidada para fazer testes com o
-          produto antes do início das vendas no Brasil. No <a>Site Oficial</a>
+          produto antes do início das vendas no Brasil. No{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Site Oficial
+          </a>
           da marca existem depoimentos de pelo menos mais 5 mulheres, de 33 até
           68 anos, que relataram suas experiências positivas com o produto.
         </p>
@@ -223,12 +246,15 @@ const Header = () => {
         <h1>Comparativo</h1>
         <br />
         <p className="text_main">
-          Fizemos testes em laboratório com o <a>Rosa Amazônica</a> para
-          comparar sua eficácia em relação a outros produtos para pele que estão
-          disponíveis no mercado brasileiro. Para isso, analisamos 15 produtos e
-          verificamos que 12 desses contém como base o ácido hialurônico em
-          conjunto com colágeno. Os outros 5 apresentam ácido retinoico como
-          ingrediente principal.
+          Fizemos testes em laboratório com o{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Rosa Amazônica
+          </a>{" "}
+          para comparar sua eficácia em relação a outros produtos para pele que
+          estão disponíveis no mercado brasileiro. Para isso, analisamos 15
+          produtos e verificamos que 12 desses contém como base o ácido
+          hialurônico em conjunto com colágeno. Os outros 5 apresentam ácido
+          retinoico como ingrediente principal.
         </p>
         <br />
         <p className="text_main">
@@ -253,7 +279,10 @@ const Header = () => {
           }
         />
         <p className="text_main">
-          Em todos os quesitos testados, a formulação do <a>Rosa Amazônica</a>{" "}
+          Em todos os quesitos testados, a formulação do{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Rosa Amazônica
+          </a>{" "}
           se saiu melhor que as outras duas, recebendo uma nota geral de 9,3. As
           outras duas fórmulas receberam a pontuação de 7,8 e 6,4 para ácido
           hialurônico em conjunto com colágeno, respectivamente.
@@ -273,7 +302,7 @@ const Header = () => {
           atinge as mulheres. No sexo masculino a questão genética tem muito
           mais força. Nas mulheres o problema é quase sempre uma questão da
           deficiência de importantes nutrientes que compõem as 3 camadas de
-          formação da pele. O <a>Rosa Amazônica</a> foi feito para sanar essa
+          formação da pele. O <a href='https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58'>Rosa Amazônica</a> foi feito para sanar essa
           deficiência.” destaca.
         </p>
         <br />
@@ -316,7 +345,10 @@ const Header = () => {
           caso não exista combate a Rugas, Linhas de Expressão ou Bigode Chinês,
           num período de 90 dias desde o início do tratamento, bastando apenas
           seguir as regras da promoção, que estão disponibilizadas no{" "}
-          <a>Site Oficial</a>.
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Site Oficial
+          </a>
+          .
         </p>
         <br />
         <p className="text_main">
@@ -326,10 +358,15 @@ const Header = () => {
         </p>
         <br />
         <p className="text_main">
-          A marca <a>Amazony</a> solicitou o registro para importação e
-          comercialização da Rosa Mosqueta Amazônica no mercado brasileiro no
-          final de 2022. No entanto, somente em janeiro a <a>Anvisa</a> deu o
-          parecer favorável à sua comercialização em território nacional.
+          A marca{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Amazony
+          </a>{" "}
+          solicitou o registro para importação e comercialização da Rosa
+          Mosqueta Amazônica no mercado brasileiro no final de 2022. No entanto,
+          somente em janeiro a{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">Anvisa</a>{" "}
+          deu o parecer favorável à sua comercialização em território nacional.
           “Estávamos em busca de novos mercados e percebemos que o Brasil é um
           dos únicos países em que os produtos para tratamento da pele são
           praticamente iguais, com a variações mínimas da mesma fórmula. Uma
@@ -365,30 +402,40 @@ const Header = () => {
         <h1>Existem contraindicações ou efeitos colaterais?</h1>
         <br />
         <p className="text_main">
-          Segundo o fabricante, o <a>Rosa Amazônica</a> é um serum natural e não
-          apresenta contraindicação ou efeito colateral. Isso significa que
-          mesmo pessoas portadoras de doenças crônicas podem fazer uso do
-          produto. Entretanto, é aconselhável a grávidas e mulheres amamentando
-          que consultem o médico antes do início da suplementação.
+          Segundo o fabricante, o{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Rosa Amazônica
+          </a>{" "}
+          é um serum natural e não apresenta contraindicação ou efeito
+          colateral. Isso significa que mesmo pessoas portadoras de doenças
+          crônicas podem fazer uso do produto. Entretanto, é aconselhável a
+          grávidas e mulheres amamentando que consultem o médico antes do início
+          da suplementação.
         </p>
         <br />
         <h1>A maneira correta de ingestão</h1>
         <br />
         <p className="text_main">
           Para resultados satisfatórios, é recomendado usar o sérum{" "}
-          <a>Rosa Amazônica</a> 2 vezes ao dia, exatamente nas a num intervalo
-          de 12 horas, sendo pela e a noite com a pele limpa e seca. Cada dose
-          tem quantidade suficiente para garantir um intenso efeito do produto
-          no organismo por 8 até 13 horas.
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Rosa Amazônica
+          </a>{" "}
+          2 vezes ao dia, exatamente nas a num intervalo de 12 horas, sendo pela
+          e a noite com a pele limpa e seca. Cada dose tem quantidade suficiente
+          para garantir um intenso efeito do produto no organismo por 8 até 13
+          horas.
         </p>
         <br />
         <h1>Quanto custa?</h1>
         <br />
         <p className="text_main">
-          O preço do Tratamento do <a>Rosa Amazônica</a> varia de acordo com a
-          quantidade de frascos adquiridos. O fabricante trabalha com descontos
-          progressivos, ou seja, quanto mais frascos você adquirir, maior será o
-          desconto no valor final.
+          O preço do Tratamento do{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Rosa Amazônica
+          </a>{" "}
+          varia de acordo com a quantidade de frascos adquiridos. O fabricante
+          trabalha com descontos progressivos, ou seja, quanto mais frascos você
+          adquirir, maior será o desconto no valor final.
         </p>
         <Image
           url={
@@ -403,12 +450,25 @@ const Header = () => {
         <br />
         <p className="text_main">
           No Brasil, assim como nos Estados Unidos com a pandemia, o{" "}
-          <a>Rosa Amazônica</a> trabalhará apenas com o sistema de vendas
-          online, onde o cliente poderá adquirir pelo site oficial e receber no
-          conforto da sua casa. CUIDADO: A marca <a>Amazony</a> não vende pelo
-          Mercado Livre, OLX, ou outros sites. Certifique-se estar comprando o
-          produto <a>ORIGINAL</a>, por isso, sempre adquira do{" "}
-          <a>Site Oficial</a>.
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Rosa Amazônica
+          </a>{" "}
+          trabalhará apenas com o sistema de vendas online, onde o cliente
+          poderá adquirir pelo site oficial e receber no conforto da sua casa.
+          CUIDADO: A marca{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Amazony
+          </a>{" "}
+          não vende pelo Mercado Livre, OLX, ou outros sites. Certifique-se
+          estar comprando o produto{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            ORIGINAL
+          </a>
+          , por isso, sempre adquira do{" "}
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Site Oficial
+          </a>
+          .
         </p>
         <br />
         <h1>Oportunidade Especial Para Nossos Leitores</h1>
@@ -418,7 +478,10 @@ const Header = () => {
           com nossa produção e ofereceu um <strong>Desconto Especial</strong> e
           a condição de parcelamento em até 12x no cartão de crédito para nossos
           leitores que estiverem interessados em experimentar o
-          <a>Rosa Amazônica</a>.
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
+            Rosa Amazônica
+          </a>
+          .
         </p>
         <br />
         <p className="text_main">
@@ -431,14 +494,25 @@ const Header = () => {
             Oportunidade Especial Para Nossos Leitores
           </h3>
           <p>Válida somente hoje:</p>
-          <a className="link1">
+          <a
+            href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58"
+            className="link1"
+          >
             EXPERIMENTE ROSA AMAZONICA EM 12X COM ATÉ 75% DE DESCONTO!
           </a>
-          <a className="link2">ÚLTIMAS 14 UNIDADES COM DESCONTO</a>
-          <a>
+          <a
+            href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58"
+            className="link2"
+          >
+            ÚLTIMAS 14 UNIDADES COM DESCONTO
+          </a>
+          <a href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58">
             <img src="https://amazonicarosa.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/02/5-3-1024x1024.png.webp" />
           </a>
-          <a className="button">
+          <a
+            href="https://ev.braip.com/ref?pv=proeo8oe&af=afi78pp58"
+            className="button"
+          >
             Comprar Agora
             <br />
             <p style={{ fontWeight: 500, opacity: 0.8, lineHeight: 1 }}>
